@@ -35,9 +35,6 @@ https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubunt
 #### Setup git bash if you don't have it.<br>
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
-#### Clone this project to local machine.
-> git clone https://github.com/m8s-lab/pump-launcher
-
 #### Install node modules.
 > cd pump-launcher<br>
 yarn
@@ -80,6 +77,4 @@ Migrate tx(first buy on pumpswap): https://solscan.io/tx/3cfWwqFTbP7bz4BPqky9guJ
 
 ## Contact
 
-* TG: https://t.me/microgift88
-* Discord: https://discord.com/users/1074514238325927956
-* Email: microgift28@gmail.com
+* TG: https://t.me/wsol12
